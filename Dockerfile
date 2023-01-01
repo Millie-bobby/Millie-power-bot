@@ -6,7 +6,7 @@ COPY requirements.txt /requirements.txt
 
 RUN cd /
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
-RUN mkdir /TigerShroff
-WORKDIR /TigerShrroff
+RUN mkdir /Millie-power-bot
+WORKDIR /Millie-power-bot
 COPY start.sh /start.sh
 CMD ["/bin/bash", "/start.sh"]
