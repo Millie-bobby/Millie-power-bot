@@ -1,6 +1,6 @@
 # Millie-power-bot
 Very Advance Auto Filter bot
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+TigerShroff!;created+by+༒Crazyboss卂乃卄丨丂卄乇Ҝ༒;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Millie-power-bot!;created+by+Millie-power-bot;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
@@ -52,12 +52,10 @@ Very Advance Auto Filter bot
 ## Deploy
 You can deploy this bot anywhere.
 
-##You can deploy easily using @Xtz_HerokuBot
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/200920082007/TigerShroff">
+<a href="https://te.legra.ph/file/5b2ec8d541fee97e63037.jpg">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -66,7 +64,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://git.github.com/200920082007/TigerShroff.git
+git clone https://github.com/Millie-bobby/Millie-power-bot.git
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
