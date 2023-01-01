@@ -1,4 +1,4 @@
-# 𝐓𝐈𝐆𝐄𝐑 𝐒𝐇𝐑𝐎𝐅𝐅
+# Millie-power-bot
 Very Advance Auto Filter bot
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+TigerShroff!;created+by+༒Crazyboss卂乃卄丨丂卄乇Ҝ༒;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
@@ -7,7 +7,7 @@ Very Advance Auto Filter bot
 
 
 
-[![Deploy](https://telegra.ph/file/595e6b626b2fee08397d6.jpg)](https://heroku.com/deploy?template=https://telegram.dog/XTZ_HerokuBot?start=MjAwOTIwMDgyMDA3L1RpZ2VyU2hyb2ZmIG1haW4)
+[![Deploy](https://te.legra.ph/file/5b2ec8d541fee97e63037.jpg)](https://te.legra.ph/file/5b2ec8d541fee97e63037.jpg)
 
 ## Features
 
@@ -102,11 +102,4 @@ python3 bot.py
 • /channel - to get list of total connected channels
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
-## Thanks To
 
-Thanks To DivideProjects For Kanging The Repo [Alita_Robot](https://github.com/DivideProjects/Alita_robot)
-
-
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Abhishek](https://t.me/abhisheksvlog)                                                                                                                                        
-𝙶𝚁𝙾𝚄𝙿 ›› [Movie Hub Official](https://t.me/MovieHubOfficialGroup)                                             
-Collabareter ›› [Joel Kurian Biju](https://t.me/CreatorBeatz)
